@@ -2,6 +2,8 @@
 
 Extensible special character indicator for CodeMirror, which is useful to avoid hard-to-find errors caused by non-usual characters.
 
+![example.png](assets/images/example.png)
+
 ## Backgrounds
 
 CodeMirror which is integrated in WP code editor also supports special characters indicator.
