@@ -40,7 +40,7 @@ This plugin adds a few characters below.
 
 You can modify special characters what you want to emphasize by the filter hook below.
 
-### apply_filter( 'cmsci_special_chars', $special_chars )
+### apply_filters( 'cmsci_special_chars', $special_chars )
 
 Filters the list of the special characters to highlight.
 
