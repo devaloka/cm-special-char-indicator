@@ -31,7 +31,7 @@ The characters below are the default ones supported by CodeMirror by default.
 This plugin adds a few characters below.
 
 * U+00A0
-* U+fEFE
+* U+FEFE
 
 ## Hooks
 
