@@ -5,6 +5,7 @@ Extensible special character indicator for CodeMirror, which is useful to avoid 
 ## Backgrounds
 
 CodeMirror which is integrated in WP code editor also supports special characters indicator.
+
 However, the default indicator (red dot) is a bit small. In addition WP doesn't have proper way to extend CodeMirror settings that is not JSON-encodable.
 
 This plugin provides easy-to-find indication and the filter hook to extend special characters.
