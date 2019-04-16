@@ -2,7 +2,7 @@
 /*
 Plugin Name: CodeMirror Special Character Indicator
 Plugin URI: https://github.com/devaloka/cm-special-char-indicator
-Description: Extensible special character indicator for CodeMirror, which is useful to avoid trivial errors caused by invalid characters.
+Description: Extensible special character indicator for CodeMirror, which is useful to avoid hard-to-find errors caused by non-usual characters.
 Version: 1.0.0
 Author: Whizark
 Author URI: https://whizark.com
